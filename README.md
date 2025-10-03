@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ray-Fisher0
 - I’m interested in CyberSecurity and App Development.
-- I know Python and C++.
+- I know Python and C along with CSS and HTML
 - I’m looking to collaborate on Apps.
 - 📫 How to reach me: email fisher.ray843@gmail.com
 
